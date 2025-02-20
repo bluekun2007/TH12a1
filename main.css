@@ -1,0 +1,35 @@
+.bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    min-height: 250vh;
+    background-image: url("a77db4898bf782c48a3beb6a15edd159.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    z-index: -1;
+    filter: blur(5px);
+}
+.whead {
+    float: left;
+}
+.hd1 {
+    color: red;
+}
+.ti {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h1 {
+    color: rgb(0, 0, 0);
+}
+.background {
+    background-color: white
+}
+.ti2 {
+    display: flex;
+    align-items: center;
+    background-color: #a39f9f;
+    justify-content: center;
+}
